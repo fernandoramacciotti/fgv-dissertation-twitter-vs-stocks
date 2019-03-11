@@ -1,6 +1,6 @@
 # The role of Twitter in the U.S. financial market
-Fernando Martinelli Ramacciotti
-São Paulo School of Economics of Fundação Getulio Vargas
+Fernando Martinelli Ramacciotti  
+São Paulo School of Economics of Fundação Getulio Vargas  
 Approved Economics and Econometrics Master's Degree dissertation (Aug 2018)
 
 
